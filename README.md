@@ -10,6 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Learning Hour – Invest in yourself and learn as much as you can!](https://vzilla.co.uk/vzilla-blog/the-learning-hour-invest-in-yourself-and-learn-as-much-as-you-can)
+- [GitOps – Getting started with ArgoCD](https://vzilla.co.uk/vzilla-blog/gitops-getting-started-with-argocd)
+- [Ransomware is real! – Exposing yourself via the Cloud –](https://vzilla.co.uk/vzilla-blog/ransomware-is-real-exposing-yourself-via-the-cloud)
+- [How to Dual Boot – Windows and Ubuntu – Razer Blade Stealth](https://vzilla.co.uk/vzilla-blog/dual-boot-windows-and-ubuntu-razer-blade-stealth)
+- [How to – Amazon EBS CSI Driver](https://vzilla.co.uk/vzilla-blog/how-to-amazon-ebs-csi-driver)
 <!-- BLOG-POST-LIST:END -->
 
 [![MichaelCade's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
