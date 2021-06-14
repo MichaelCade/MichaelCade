@@ -18,8 +18,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
-<!-- VIDEO-POST-LIST:START -->
-<!-- VIDEO-POST-LIST:END -->
+<!-- VIDEO:START -->
+<!-- VIDEO:END -->
 
 
 
