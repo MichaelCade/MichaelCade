@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with CIVO Cloud](https://vzilla.co.uk/vzilla-blog/getting-started-with-civo-cloud)
 - [GitOps – Including backup in your continuous deployments](https://vzilla.co.uk/vzilla-blog/gitops-including-backup-in-your-continuous-deployments)
 - [The Learning Hour – Invest in yourself and learn as much as you can!](https://vzilla.co.uk/vzilla-blog/the-learning-hour-invest-in-yourself-and-learn-as-much-as-you-can)
 - [GitOps – Getting started with ArgoCD](https://vzilla.co.uk/vzilla-blog/gitops-getting-started-with-argocd)
 - [Ransomware is real! – Exposing yourself via the Cloud –](https://vzilla.co.uk/vzilla-blog/ransomware-is-real-exposing-yourself-via-the-cloud)
-- [How to Dual Boot – Windows and Ubuntu – Razer Blade Stealth](https://vzilla.co.uk/vzilla-blog/dual-boot-windows-and-ubuntu-razer-blade-stealth)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
