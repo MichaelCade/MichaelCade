@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating & Updating your GitHub Personal Access Token](https://vzilla.co.uk/vzilla-blog/creating-updating-your-github-personal-access-token)
 - [Ubuntu Laptop – Sound just not loud enough](https://vzilla.co.uk/vzilla-blog/ubuntu-laptop-sound-just-not-loud-enough)
 - [The vZilla Kubernetes tools, tips & tricks](https://vzilla.co.uk/vzilla-blog/the-vzilla-kubernetes-tools-tips-tricks)
 - [Using Terraform (IaC) to automate your Kubernetes Clusters and Apps](https://vzilla.co.uk/vzilla-blog/using-terraform-iac-to-automate-your-kubernetes-clusters-and-apps)
 - [Dark Kubernetes Clusters & managing multi clusters – Part 2](https://vzilla.co.uk/vzilla-blog/dark-kubernetes-clusters-managing-multi-clusters-part-2)
-- [Dark Kubernetes Clusters & managing multi clusters](https://vzilla.co.uk/vzilla-blog/dark-kubernetes-clusters-managing-multi-clusters)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
