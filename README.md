@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [K9s Quick Demo - A Terminal UI to interact with your K8s/Kubernetes Clusters](https://www.youtube.com/watch?v=YXfnoL4VEiE)
 - [Kasten K10 with Microsoft Azure Kubernetes Quick Overview](https://www.youtube.com/watch?v=ifiM4xLscZ4)
 - [Introducing Kubestr: a new way to benchmark your Kubernetes storage](https://www.youtube.com/watch?v=U3Rt9vcuQdc)
 - [Kubernetes Hands-On-Lab + Free Quick Start E-Book](https://www.youtube.com/watch?v=_Pnp8qODVqc)
 - [Veeam Data Integration API- Walk & Talk](https://www.youtube.com/watch?v=o3HpGmTcDsA)
-- [Veeam Backup for Google Cloud Platform (GCP) v1](https://www.youtube.com/watch?v=oZ6B7Zf6ZV4)
 <!-- VIDEO:END -->
 
 
