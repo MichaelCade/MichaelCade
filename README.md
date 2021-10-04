@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [vSphere Tanzu Community Edition - First look & deploy](https://www.youtube.com/watch?v=qKRdQ1fG95c)
 - [Kanister Overview  - An extensible open-source framework for app-lvl data management on Kubernetes](https://www.youtube.com/watch?v=wFD42Zpbfts)
 - [K9s Quick Demo - A Terminal UI to interact with your K8s/Kubernetes Clusters](https://www.youtube.com/watch?v=YXfnoL4VEiE)
 - [Kasten K10 with Microsoft Azure Kubernetes Quick Overview](https://www.youtube.com/watch?v=ifiM4xLscZ4)
 - [Introducing Kubestr: a new way to benchmark your Kubernetes storage](https://www.youtube.com/watch?v=U3Rt9vcuQdc)
-- [Kubernetes Hands-On-Lab + Free Quick Start E-Book](https://www.youtube.com/watch?v=_Pnp8qODVqc)
 <!-- VIDEO:END -->
 
 
