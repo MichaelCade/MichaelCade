@@ -10,7 +10,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#Project_Pace – Kasten K10 Demo environment for everyone](https://vzilla.co.uk/vzilla-blog/project_pace-kasten-k10-demo-environment-for-everyone)
+- [Kubernetes Demo Environment For Everyone](https://vzilla.co.uk/vzilla-blog/project_pace-kasten-k10-demo-environment-for-everyone)
 - [Cloud-Native Data Management Day 2021 NA is Next week!](https://vzilla.co.uk/vzilla-blog/cloud-native-data-management-day-2021-na-is-next-week)
 - [My new “Budget” Custom Mechanical Keyboard](https://vzilla.co.uk/vzilla-blog/my-new-budget-custom-mechanical-keyboard)
 - [Creating & Updating your GitHub Personal Access Token](https://vzilla.co.uk/vzilla-blog/creating-updating-your-github-personal-access-token)
