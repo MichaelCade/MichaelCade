@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [K8Lens Overview - visualise and control your Kubernetes cluster&lpar;s&rpar;](https://www.youtube.com/watch?v=vWrMlrPYwcM)
 - [Integrating Backup Into Your GitOps CICD Pipeline](https://www.youtube.com/watch?v=2mjlmjJ4NjQ)
 - [vSphere Tanzu Community Edition - First look &amp; deploy](https://www.youtube.com/watch?v=qKRdQ1fG95c)
 - [Kanister Overview  - An extensible open-source framework for app-lvl data management on Kubernetes](https://www.youtube.com/watch?v=wFD42Zpbfts)
 - [K9s Quick Demo - A Terminal UI to interact with your K8s/Kubernetes Clusters](https://www.youtube.com/watch?v=YXfnoL4VEiE)
-- [Kasten K10 with Microsoft Azure Kubernetes Quick Overview](https://www.youtube.com/watch?v=ifiM4xLscZ4)
 <!-- VIDEO:END -->
 
 
