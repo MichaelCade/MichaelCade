@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Tanzu Community Edition - Deploy - AWS Managed Kubernetes Clusters](https://www.youtube.com/watch?v=i1cv5ScAmhw)
 - [#90DaysOfDevOps - Overview](https://www.youtube.com/watch?v=g5RqYLn5exc)
 - [ArgoCD Demo - 90DaysOfDevOps](https://www.youtube.com/watch?v=w6J413_j0hA)
 - [#90DaysOfDevOps - Linux Desktop Customisation Setup](https://www.youtube.com/watch?v=jeEslAtHfKc)
 - [K8Lens Overview - visualise and control your Kubernetes cluster&lpar;s&rpar;](https://www.youtube.com/watch?v=vWrMlrPYwcM)
-- [Integrating Backup Into Your GitOps CICD Pipeline](https://www.youtube.com/watch?v=2mjlmjJ4NjQ)
 <!-- VIDEO:END -->
 
 
