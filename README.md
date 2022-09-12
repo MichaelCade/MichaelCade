@@ -33,8 +33,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCade&theme=dark)](https://git.io/streak-stats)
 
+- 🔭 I’m currently working on [#90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+
 ![](https://komarev.com/ghpvc/?username=michaelcade&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=MichaelCade.MichaelCade)
+
 
 
 <!--
