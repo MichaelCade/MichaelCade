@@ -20,10 +20,10 @@
 # Videos
 <!-- VIDEO:START -->
 - [#90DaysOfDevOps - Getting ready for 2023](https://www.youtube.com/watch?v=hfdrel8r2zU)
+- [#90DaysOfDevOps - Getting ready for 2023](https://www.youtube.com/watch?v=oFAlLnxMpHA)
 - [Tanzu Community Edition - Destroy](https://www.youtube.com/watch?v=1GQ0RyiPE10)
 - [Tanzu Community Edition - Deploy - AWS Managed Kubernetes Clusters](https://www.youtube.com/watch?v=i1cv5ScAmhw)
 - [#90DaysOfDevOps - Overview](https://www.youtube.com/watch?v=g5RqYLn5exc)
-- [ArgoCD Demo - 90DaysOfDevOps](https://www.youtube.com/watch?v=w6J413_j0hA)
 <!-- VIDEO:END -->
 
 
