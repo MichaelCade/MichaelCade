@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes as a platform: Data considerations and concerns](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-data-considerations-and-concerns)
 - [Kubernetes as a Platform, much like Virtualisation](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-much-like-virtualisation)
 - [Finally.. My first KubeCon](https://vzilla.co.uk/vzilla-blog/finally-my-first-kubecon)
 - [A year at the tap &lpar;firehose&rpar; end](https://vzilla.co.uk/vzilla-blog/a-year-at-the-tap-firehose-end)
 - [Kubernetes Demo Environment For Everyone](https://vzilla.co.uk/vzilla-blog/project_pace-kasten-k10-demo-environment-for-everyone)
-- [Cloud-Native Data Management Day 2021 NA is Next week!](https://vzilla.co.uk/vzilla-blog/cloud-native-data-management-day-2021-na-is-next-week)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
