@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Responsibilities of a DevOps Engineer - Day 2 #90DaysOfDevOps 2/90](https://www.youtube.com/watch?v=bDjgfwOb8WQ)
 - [Introduction - Day 1 #90DaysOfDevOps 1/90](https://www.youtube.com/watch?v=wkWDtlUqRo8)
 - [Intro video for #90DaysOfDevOps | What do you think?](https://www.youtube.com/watch?v=R3LgeQDOU-U)
 - [Episode 2 - UpTheStack - Provisioning - Automation &amp; Configuration](https://www.youtube.com/watch?v=d_brRJhUHEw)
 - [Episode1 - UpTheStack -  Introduction](https://www.youtube.com/watch?v=dDObCbYeuF4)
-- [#90DaysOfDevOps - New Website, 2023 topics &amp; Discord](https://www.youtube.com/watch?v=nFfkqo-gJHM)
 <!-- VIDEO:END -->
 
 
