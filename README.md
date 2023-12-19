@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Episode1 - HomeLab Tour and Plan](https://www.youtube.com/watch?v=4yQfmcfvZt8)
 - [DevOps - The real stories - Day6](https://www.youtube.com/watch?v=qOsXEZzqNP8)
 - [Plan - Code - Build - Testing - Release - Deploy - Operate - Monitor - REPEAT - Day5](https://www.youtube.com/watch?v=3UG_yH3VX3M)
 - [DevOps &amp; Agile - Day 4 #90DaysOfDevOps 4/90](https://www.youtube.com/watch?v=rX297GOL8Gc)
 - [DevOps Lifecycle - Application Focused - Day 3 #90DaysOfDevOps 3/90](https://www.youtube.com/watch?v=1XNnsS5LraY)
-- [Responsibilities of a DevOps Engineer - Day 2 #90DaysOfDevOps 2/90](https://www.youtube.com/watch?v=bDjgfwOb8WQ)
 <!-- VIDEO:END -->
 
 
