@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 3 - High-performing engineering teams and the Holy Grail](https://www.youtube.com/watch?v=MhqXN269S04)
 - [Day 2 - The Digital Factory](https://www.youtube.com/watch?v=xeX4HGLeJQw)
 - [Day 1 - 2024 - Community Edition - Introduction](https://www.youtube.com/watch?v=W7txKrH06gc)
 - [Episode2 - HomeLab - Docker, Rancher and Portainer](https://www.youtube.com/watch?v=7dNCdaFjEus)
 - [Episode1 - HomeLab Tour and Plan](https://www.youtube.com/watch?v=4yQfmcfvZt8)
-- [DevOps - The real stories - Day6](https://www.youtube.com/watch?v=qOsXEZzqNP8)
 <!-- VIDEO:END -->
 
 
