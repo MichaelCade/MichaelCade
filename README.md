@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 8 Culinary Coding: Crafting Infrastructure Recipes with OpenTofu](https://www.youtube.com/watch?v=jjkY2xzdTN4)
 - [Day 7 - Isn&#39;t Test Automation A Silver Bullet](https://www.youtube.com/watch?v=-d5r575MTGE)
 - [Day 6 - Kubernetes RBAC with Ansible](https://www.youtube.com/watch?v=7m-79KI3xhY)
 - [Day 5 - Cross functional empathy](https://www.youtube.com/watch?v=2aJ4hA6TiZE)
 - [Day 4 - Manage Kubernetes Add-Ons for Multiple Clusters Using Cluster Run-Time State](https://www.youtube.com/watch?v=9OJSRbyEGVI)
-- [Day 3 - High-performing engineering teams and the Holy Grail](https://www.youtube.com/watch?v=MhqXN269S04)
 <!-- VIDEO:END -->
 
 
