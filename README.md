@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 13 - Architecting for Versatility](https://www.youtube.com/watch?v=MpGKEBmWZFQ)
 - [Day 12 - Know your data: The Stats behind the Alerts](https://www.youtube.com/watch?v=y9rOAzuV-F8)
 - [Day 11 - Crafting &amp; Validating Our Disaster Recovery Plan](https://www.youtube.com/watch?v=cWUUJYKvbAk)
 - [Day 10 - Is Kubernetes Too Complicated?](https://www.youtube.com/watch?v=00znexeYqtI)
 - [Day 9 - Why should developers care about container security?](https://www.youtube.com/watch?v=z0Si8aE_W4Y)
-- [Day 8 - Culinary Coding: Crafting Infrastructure Recipes with OpenTofu](https://www.youtube.com/watch?v=jjkY2xzdTN4)
 <!-- VIDEO:END -->
 
 
