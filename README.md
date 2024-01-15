@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 15 - Using code dependency analysis to decide what to test](https://www.youtube.com/watch?v=e9kDdUxQwi4)
 - [Day 14 - An introduction to API Security in Kubernetes](https://www.youtube.com/watch?v=gJ4Gb4qMLbA)
 - [Day 13 - Architecting for Versatility](https://www.youtube.com/watch?v=MpGKEBmWZFQ)
 - [Day 12 - Know your data: The Stats behind the Alerts](https://www.youtube.com/watch?v=y9rOAzuV-F8)
 - [Day 11 - Crafting &amp; Validating Our Disaster Recovery Plan](https://www.youtube.com/watch?v=cWUUJYKvbAk)
-- [Day 10 - Is Kubernetes Too Complicated?](https://www.youtube.com/watch?v=00znexeYqtI)
 <!-- VIDEO:END -->
 
 
