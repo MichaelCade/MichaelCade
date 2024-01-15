@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 20 - Navigating the Vast DevOps Terrain: Strategies for Learning and Staying Current](https://www.youtube.com/watch?v=ZSOYXerjgsw)
 - [Day 19 - Building Efficient and Secure Docker Images with Multi-Stage Builds](https://www.youtube.com/watch?v=fjWh3BH4LbU)
 - [Day 18 - Platform Engineering Is Not About Tech](https://www.youtube.com/watch?v=1wKi6FH8eg0)
 - [Day 17 - From Chaos to Resilience: Decoding the Secrets of Production Readiness](https://www.youtube.com/watch?v=zIg_N-EIOQY)
 - [Day 16 - Smarter, Better, Faster, Stronger - Testing at Scale](https://www.youtube.com/watch?v=3YhLr5sxxcU)
-- [Day 15 - Using code dependency analysis to decide what to test](https://www.youtube.com/watch?v=e9kDdUxQwi4)
 <!-- VIDEO:END -->
 
 
