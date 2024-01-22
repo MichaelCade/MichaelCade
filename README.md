@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 22 - Test in Production with Kubernetes and Telepresence](https://www.youtube.com/watch?v=-et6kHmK5MQ)
 - [Day 21 - Azure ARM now got Bicep](https://www.youtube.com/watch?v=QMF973vpxyg)
 - [Day 20 - Navigating the Vast DevOps Terrain: Strategies for Learning and Staying Current](https://www.youtube.com/watch?v=ZSOYXerjgsw)
 - [Day 19 - Building Efficient and Secure Docker Images with Multi-Stage Builds](https://www.youtube.com/watch?v=fjWh3BH4LbU)
 - [Day 18 - Platform Engineering Is Not About Tech](https://www.youtube.com/watch?v=1wKi6FH8eg0)
-- [Day 17 - From Chaos to Resilience: Decoding the Secrets of Production Readiness](https://www.youtube.com/watch?v=zIg_N-EIOQY)
 <!-- VIDEO:END -->
 
 
