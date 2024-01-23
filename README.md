@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 23 - SQL Server 2022 on Linux Containers and Kubernetes from Zero to a Hero!](https://www.youtube.com/watch?v=BgttLzkzNBs)
 - [Day 28 - Talos Linux on vSphere](https://www.youtube.com/watch?v=9y7m0PgW2UM)
 - [Day 22 - Test in Production with Kubernetes and Telepresence](https://www.youtube.com/watch?v=-et6kHmK5MQ)
 - [Day 21 - Azure ARM now got Bicep](https://www.youtube.com/watch?v=QMF973vpxyg)
 - [Day 20 - Navigating the Vast DevOps Terrain: Strategies for Learning and Staying Current](https://www.youtube.com/watch?v=ZSOYXerjgsw)
-- [Day 19 - Building Efficient and Secure Docker Images with Multi-Stage Builds](https://www.youtube.com/watch?v=fjWh3BH4LbU)
 <!-- VIDEO:END -->
 
 
