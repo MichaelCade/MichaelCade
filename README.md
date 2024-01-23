@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 25  - Kube-Nation: Exploring the Land of Kubernetes](https://www.youtube.com/watch?v=j3_917pmK_c)
 - [Day 24 - DevSecOps - Defined, Explained &amp; Explored](https://www.youtube.com/watch?v=glbuwrdSwCs)
 - [Day 23 - SQL Server 2022 on Linux Containers and Kubernetes from Zero to a Hero!](https://www.youtube.com/watch?v=BgttLzkzNBs)
 - [Day 28 - Talos Linux on vSphere](https://www.youtube.com/watch?v=9y7m0PgW2UM)
 - [Day 22 - Test in Production with Kubernetes and Telepresence](https://www.youtube.com/watch?v=-et6kHmK5MQ)
-- [Day 21 - Azure ARM now got Bicep](https://www.youtube.com/watch?v=QMF973vpxyg)
 <!-- VIDEO:END -->
 
 
