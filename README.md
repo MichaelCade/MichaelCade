@@ -19,10 +19,10 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 26 - Advanced Code Coverage with Jenkins and API Mocking](https://www.youtube.com/watch?v=ZBaQ71CI_lI)
 - [Day 25  - Kube-Nation: Exploring the Land of Kubernetes](https://www.youtube.com/watch?v=j3_917pmK_c)
 - [Day 24 - DevSecOps - Defined, Explained &amp; Explored](https://www.youtube.com/watch?v=glbuwrdSwCs)
 - [Day 27 - From Automated to Automatic - Event-Driven Infrastructure Management with Ansible](https://www.youtube.com/watch?v=BljdQTewSic)
-- [Day 26 - Advanced Code Coverage with Jenkins and API Mocking](https://www.youtube.com/watch?v=ZBaQ71CI_lI)
 - [Day 23 - SQL Server 2022 on Linux Containers and Kubernetes from Zero to a Hero!](https://www.youtube.com/watch?v=BgttLzkzNBs)
 <!-- VIDEO:END -->
 
