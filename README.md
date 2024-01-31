@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 31 - GitOps on AKS](https://www.youtube.com/watch?v=RZ3gy0mnGoY)
 - [Day 30 - How GitHub delivers GitHub using GitHub](https://www.youtube.com/watch?v=wKC1hTE9G90)
 - [Day 29 - A Practical introduction to OpenTelemetry tracing](https://www.youtube.com/watch?v=MqsIpGEbt4w)
 - [Day 28 - Talos Linux on vSphere](https://www.youtube.com/watch?v=9y7m0PgW2UM)
 - [Day 27 - From Automated to Automatic - Event-Driven Infrastructure Management with Ansible](https://www.youtube.com/watch?v=BljdQTewSic)
-- [Day 26 - Advanced Code Coverage with Jenkins and API Mocking](https://www.youtube.com/watch?v=ZBaQ71CI_lI)
 <!-- VIDEO:END -->
 
 
