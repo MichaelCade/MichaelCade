@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 33 - GitOps made simple with ArgoCD and GitHub Actions](https://www.youtube.com/watch?v=dKU3hC_RtDk)
 - [Day 32 - Cracking Cholera’s Code: Victorian Insights for Today’s Technologist](https://www.youtube.com/watch?v=YnMEcjTlj3E)
 - [Day 31 - GitOps on AKS](https://www.youtube.com/watch?v=RZ3gy0mnGoY)
 - [Day 30 - How GitHub delivers GitHub using GitHub](https://www.youtube.com/watch?v=wKC1hTE9G90)
 - [Day 29 - A Practical introduction to OpenTelemetry tracing](https://www.youtube.com/watch?v=MqsIpGEbt4w)
-- [Day 28 - Talos Linux on vSphere](https://www.youtube.com/watch?v=9y7m0PgW2UM)
 <!-- VIDEO:END -->
 
 
