@@ -19,8 +19,8 @@
 
 # Videos
 <!-- VIDEO:START -->
-- [Day 33 - GitOps made simple with ArgoCD and GitHub Actions](https://www.youtube.com/watch?v=dKU3hC_RtDk)
 - [Day 34 - How to Implement Automated Deployment Pipelines for Your DevOps Projects](https://www.youtube.com/watch?v=XLES6Q5hr9c)
+- [Day 33 - GitOps made simple with ArgoCD and GitHub Actions](https://www.youtube.com/watch?v=dKU3hC_RtDk)
 - [Day 32 - Cracking Cholera’s Code: Victorian Insights for Today’s Technologist](https://www.youtube.com/watch?v=YnMEcjTlj3E)
 - [Day 31 - GitOps on AKS](https://www.youtube.com/watch?v=RZ3gy0mnGoY)
 - [Day 30 - How GitHub delivers GitHub using GitHub](https://www.youtube.com/watch?v=wKC1hTE9G90)
