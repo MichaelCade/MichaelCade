@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 39 - Is TLS in Kubernetes really that hard to understand?](https://www.youtube.com/watch?v=aJfcP5fambs)
 - [Day 38 - Open Standards: Empowering Cloud-Native Innovation](https://www.youtube.com/watch?v=xlqnmUOeREY)
 - [Day 37 - The Lean DevOps Playbook: Make it a success from Day one](https://www.youtube.com/watch?v=vI9iz_CImCs)
 - [Day 36 - Policy-as-Code Super-Powers! Rethinking Modern IaC With Service Mesh And CNI](https://www.youtube.com/watch?v=d-2DKoIp4RI)
 - [Day 35 - Azure for DevSecOps Operators](https://www.youtube.com/watch?v=5s1w09vGjyY)
-- [Day 34 - How to Implement Automated Deployment Pipelines for Your DevOps Projects](https://www.youtube.com/watch?v=XLES6Q5hr9c)
 <!-- VIDEO:END -->
 
 
