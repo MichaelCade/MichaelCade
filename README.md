@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 37 - The Lean DevOps Playbook: Make it a success from Day one](https://www.youtube.com/watch?v=vI9iz_CImCs)
+- [Day 36 - Policy-as-Code Super-Powers! Rethinking Modern IaC With Service Mesh And CNI](https://www.youtube.com/watch?v=d-2DKoIp4RI)
+- [Day 35 - Azure for DevSecOps Operators](https://www.youtube.com/watch?v=5s1w09vGjyY)
 - [Day 34 - How to Implement Automated Deployment Pipelines for Your DevOps Projects](https://www.youtube.com/watch?v=XLES6Q5hr9c)
 - [Day 33 - GitOps made simple with ArgoCD and GitHub Actions](https://www.youtube.com/watch?v=dKU3hC_RtDk)
-- [Day 32 - Cracking Cholera’s Code: Victorian Insights for Today’s Technologist](https://www.youtube.com/watch?v=YnMEcjTlj3E)
-- [Day 31 - GitOps on AKS](https://www.youtube.com/watch?v=RZ3gy0mnGoY)
-- [Day 30 - How GitHub delivers GitHub using GitHub](https://www.youtube.com/watch?v=wKC1hTE9G90)
 <!-- VIDEO:END -->
 
 
