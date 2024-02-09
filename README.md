@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VMware vCenter 8.0 – Power Outage causes no boot!](https://vzilla.co.uk/vzilla-blog/vmware-vcenter-8-0-power-outage-causes-no-boot)
 - [Getting back into the HomeLab game for 2024](https://vzilla.co.uk/vzilla-blog/getting-back-into-the-homelab-game-for-2024)
 - [The Shedquarters – My Office Setup – 2024](https://vzilla.co.uk/vzilla-blog/the-shedquarters-my-office-setup-2024)
 - [Kubernetes as a platform: Data considerations and concerns](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-data-considerations-and-concerns)
 - [Kubernetes as a Platform, much like Virtualisation](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-much-like-virtualisation)
-- [Finally.. My first KubeCon](https://vzilla.co.uk/vzilla-blog/finally-my-first-kubecon)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
