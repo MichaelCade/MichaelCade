@@ -19,8 +19,8 @@
 
 # Videos
 <!-- VIDEO:START -->
-- [Day 41 - My journey to reimagining DevOps: Ushering in the Second Wave](https://www.youtube.com/watch?v=jQENXdESfWM)
 - [Day 42 - The North Star: Risk-driven security](https://www.youtube.com/watch?v=XlF19vL0S9c)
+- [Day 41 - My journey to reimagining DevOps: Ushering in the Second Wave](https://www.youtube.com/watch?v=jQENXdESfWM)
 - [Day 40 - Infrastructure as Code - A look at Azure Bicep and Terraform](https://www.youtube.com/watch?v=we1s37_Ki2Y)
 - [Day 39 - Is TLS in Kubernetes really that hard to understand?](https://www.youtube.com/watch?v=aJfcP5fambs)
 - [Day 38 - Open Standards: Empowering Cloud-Native Innovation](https://www.youtube.com/watch?v=xlqnmUOeREY)
