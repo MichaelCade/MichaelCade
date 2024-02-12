@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 44 - Exploring Firecracker](https://www.youtube.com/watch?v=EPMbCUPK7aQ)
 - [Day 43 - Let&#39;s go sidecarless in Ambient Mesh](https://www.youtube.com/watch?v=T1zJ9tmBkrk)
 - [Day 42 - The North Star: Risk-driven security](https://www.youtube.com/watch?v=XlF19vL0S9c)
 - [Day 41 - My journey to reimagining DevOps: Ushering in the Second Wave](https://www.youtube.com/watch?v=jQENXdESfWM)
 - [Day 40 - Infrastructure as Code - A look at Azure Bicep and Terraform](https://www.youtube.com/watch?v=we1s37_Ki2Y)
-- [Day 39 - Is TLS in Kubernetes really that hard to understand?](https://www.youtube.com/watch?v=aJfcP5fambs)
 <!-- VIDEO:END -->
 
 
