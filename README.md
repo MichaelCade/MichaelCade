@@ -19,10 +19,10 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 44 - Exploring Firecracker](https://www.youtube.com/watch?v=EPMbCUPK7aQ)
 - [Day 46 - Mastering AWS Systems Manager: Simplifying Infrastructure Management](https://www.youtube.com/watch?v=d1ZnS8L85sw)
 - [Day 43 - Let&#39;s go sidecarless in Ambient Mesh](https://www.youtube.com/watch?v=T1zJ9tmBkrk)
 - [Day 45 - Microsoft DevOps Solutions or how to integrate the best of Azure DevOps and GitHub](https://www.youtube.com/watch?v=NqGUVOSRe6g)
-- [Day 44 - Exploring Firecracker](https://www.youtube.com/watch?v=EPMbCUPK7aQ)
 - [Day 42 - The North Star: Risk-driven security](https://www.youtube.com/watch?v=XlF19vL0S9c)
 <!-- VIDEO:END -->
 
