@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 45 - Microsoft DevOps Solutions or how to integrate the best of Azure DevOps and GitHub](https://www.youtube.com/watch?v=NqGUVOSRe6g)
 - [Day 47 - Azure logic app, low / no code](https://www.youtube.com/watch?v=pEB4Kp6JHfI)
 - [Day 44 - Exploring Firecracker](https://www.youtube.com/watch?v=EPMbCUPK7aQ)
 - [Day 46 - Mastering AWS Systems Manager: Simplifying Infrastructure Management](https://www.youtube.com/watch?v=d1ZnS8L85sw)
 - [Day 43 - Let&#39;s go sidecarless in Ambient Mesh](https://www.youtube.com/watch?v=T1zJ9tmBkrk)
-- [Day 45 - Microsoft DevOps Solutions or how to integrate the best of Azure DevOps and GitHub](https://www.youtube.com/watch?v=NqGUVOSRe6g)
 <!-- VIDEO:END -->
 
 
