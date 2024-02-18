@@ -19,8 +19,8 @@
 
 # Videos
 <!-- VIDEO:START -->
-- [Day 48 - From Puddings to Platforms: Bringing Ideas to life with ChatGPT](https://www.youtube.com/watch?v=RQT9c_Cl_-4)
 - [Day 49 - From Confusion To Clarity: Gherkin &amp; Specflow Ensures Clear Requirements and Bug-Free Apps](https://www.youtube.com/watch?v=aJHLnATd_MA)
+- [Day 48 - From Puddings to Platforms: Bringing Ideas to life with ChatGPT](https://www.youtube.com/watch?v=RQT9c_Cl_-4)
 - [Day 47 - Azure logic app, low / no code](https://www.youtube.com/watch?v=pEB4Kp6JHfI)
 - [Day 46 - Mastering AWS Systems Manager: Simplifying Infrastructure Management](https://www.youtube.com/watch?v=d1ZnS8L85sw)
 - [Day 45 - Microsoft DevOps Solutions or how to integrate the best of Azure DevOps and GitHub](https://www.youtube.com/watch?v=NqGUVOSRe6g)
