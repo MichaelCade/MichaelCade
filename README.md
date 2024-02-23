@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
-- [Day 54 - Mastering AWS OpenSearch: Terraform Provisioning and Cost Efficiency Series](https://www.youtube.com/watch?v=GYrCbUqHPi4)
 - [Day 53 - Gickup - Keep your repositories safe](https://www.youtube.com/watch?v=hKB3XY7oMgo)
 - [Day 52 - Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.youtube.com/watch?v=fTsaj7kqOvs)
 - [Day 51 - DevOps on Windows](https://www.youtube.com/watch?v=_mKToogk3lo)
 - [Day 50 - State of Cloud Native 2024](https://www.youtube.com/watch?v=63qRo4GzJwE)
+- [Day 49 - From Confusion To Clarity: Gherkin &amp; Specflow Ensures Clear Requirements and Bug-Free Apps](https://www.youtube.com/watch?v=aJHLnATd_MA)
 <!-- VIDEO:END -->
 
 
