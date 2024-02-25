@@ -19,8 +19,8 @@
 
 # Videos
 <!-- VIDEO:START -->
-- [Day 56 - Automated database deployment within the DevOps process](https://www.youtube.com/watch?v=LOEaKrcZH_8)
 - [Day 55 - Bringing Together IaC and CM with Terraform Provider for Ansible](https://www.youtube.com/watch?v=UI88oX0u_qs)
+- [Day 56 - Automated database deployment within the DevOps process](https://www.youtube.com/watch?v=LOEaKrcZH_8)
 - [Day 54 - Mastering AWS OpenSearch: Terraform Provisioning and Cost Efficiency Series](https://www.youtube.com/watch?v=GYrCbUqHPi4)
 - [Day 53 - Gickup - Keep your repositories safe](https://www.youtube.com/watch?v=hKB3XY7oMgo)
 - [Day 52 - Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.youtube.com/watch?v=fTsaj7kqOvs)
