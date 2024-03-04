@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 64 - Let’s Do DevOps: Writing a New Terraform /Tofu AzureRm Data Source — All Steps!](https://www.youtube.com/watch?v=AtqivV8iBdE)
 - [Day 63 - Diving into Container Network Namespaces](https://www.youtube.com/watch?v=Z22YVIwwpf4)
 - [Day 62 - Shifting Left for DevSecOps Using Modern Edge Platforms](https://www.youtube.com/watch?v=kShQcv_KLOg)
 - [Day 61 - Demystifying Modernisation: True Potential of Cloud Technology](https://www.youtube.com/watch?v=3069RWgZt6c)
 - [Day 60 - Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about](https://www.youtube.com/watch?v=Bhr-lxHvWB0)
-- [Day 59 - Continuous Delivery pipelines for cloud infrastructure](https://www.youtube.com/watch?v=L8hqM3Y5pTo)
 <!-- VIDEO:END -->
 
 
