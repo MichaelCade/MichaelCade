@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 72 - Infrastructure as Code with Pulumi](https://www.youtube.com/watch?v=ph-olCjRXQs)
+- [Day 71 - Chatbots are going to destroy infrastructures and your cloud bills](https://www.youtube.com/watch?v=arpyvrktyzY)
 - [Day 70 Simplified Cloud Adoption with Microsoft&#39;s Terraforms Azure Landing Zone Module](https://www.youtube.com/watch?v=r1j8CrwS36Q)
 - [Day 69 - Enhancing Kubernetes security, visibility, and networking control logic at the Linux kernel](https://www.youtube.com/watch?v=mEc0WoPoHdU)
 - [Day 68 - Service Mesh for Kubernetes 101: The Secret Sauce to Effortless Microservices Management](https://www.youtube.com/watch?v=IyFDGhqpMTs)
-- [Day 67 - Art of DevOps: Harmonizing Code, Culture, and Continuous Delivery](https://www.youtube.com/watch?v=NTysb2SgfUU)
-- [Day 66 - A Developer&#39;s Journey to the DevOps: The Synergy of Two Worlds](https://www.youtube.com/watch?v=Q_LApaLzkSU)
 <!-- VIDEO:END -->
 
 
