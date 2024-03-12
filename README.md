@@ -20,10 +20,10 @@
 # Videos
 <!-- VIDEO:START -->
 - [Day 74 - Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY)
+- [Day 73 - Introducing the Terraform Test Framework](https://www.youtube.com/watch?v=ksYiVW6fEeA)
 - [Day 72 - Infrastructure as Code with Pulumi](https://www.youtube.com/watch?v=ph-olCjRXQs)
 - [Day 71 - Chatbots are going to destroy infrastructures and your cloud bills](https://www.youtube.com/watch?v=arpyvrktyzY)
 - [Day 70 Simplified Cloud Adoption with Microsoft&#39;s Terraforms Azure Landing Zone Module](https://www.youtube.com/watch?v=r1j8CrwS36Q)
-- [Day 69 - Enhancing Kubernetes security, visibility, and networking control logic at the Linux kernel](https://www.youtube.com/watch?v=mEc0WoPoHdU)
 <!-- VIDEO:END -->
 
 
