@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 77 - Connect to Microsoft APIs in Azure DevOps Pipelines using Workload Identity Federation](https://www.youtube.com/watch?v=-KCgEC58PHQ)
 - [Day 76 - All you need to know about AWS CDK](https://www.youtube.com/watch?v=M4KUksIOZdU)
 - [Day 75 - Distracted Development](https://www.youtube.com/watch?v=6uQtmh6MEYA)
 - [Day 74 - Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY)
 - [Day 73 - Introducing the Terraform Test Framework](https://www.youtube.com/watch?v=ksYiVW6fEeA)
-- [Day 72 - Infrastructure as Code with Pulumi](https://www.youtube.com/watch?v=ph-olCjRXQs)
 <!-- VIDEO:END -->
 
 
