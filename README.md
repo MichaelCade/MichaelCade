@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 77 - Connect to Microsoft APIs in Azure DevOps Pipelines using Workload Identity Federation](https://www.youtube.com/watch?v=-KCgEC58PHQ)
 - [Day 84 - Hacking Kubernetes For Beginners](https://www.youtube.com/watch?v=ZUHUEZKl0vc)
 - [Day 83 - Saving Cloud Costs Using Existing Prometheus Metrics](https://www.youtube.com/watch?v=qLOmthfEWdw)
 - [Day 82 - Dev Containers in VS Code](https://www.youtube.com/watch?v=LH5qMhpko8k)
 - [Day 81 -  Leveraging Kubernetes to build a better Cloud Native Development Experience](https://www.youtube.com/watch?v=p6AgYNL9awM)
-- [Day 80 - Unlocking K8s Troubleshooting Best Practices with Botkube](https://www.youtube.com/watch?v=wcMOn-FEsW0)
 <!-- VIDEO:END -->
 
 
