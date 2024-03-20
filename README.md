@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 80 - Unlocking K8s Troubleshooting Best Practices with Botkube](https://www.youtube.com/watch?v=wcMOn-FEsW0)
 - [Day 79 - DevEdOps](https://www.youtube.com/watch?v=5-Pa2odaGeg)
 - [Day 78 - Scaling Terraform Deployments with GitHub Actions: Essential Configurations](https://www.youtube.com/watch?v=pU8vSCvZIHg)
 - [Day 77 - Connect to Microsoft APIs in Azure DevOps Pipelines using Workload Identity Federation](https://www.youtube.com/watch?v=-KCgEC58PHQ)
 - [Day 84 - Hacking Kubernetes For Beginners](https://www.youtube.com/watch?v=ZUHUEZKl0vc)
-- [Day 83 - Saving Cloud Costs Using Existing Prometheus Metrics](https://www.youtube.com/watch?v=qLOmthfEWdw)
 <!-- VIDEO:END -->
 
 
