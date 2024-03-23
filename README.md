@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 83 - Saving Cloud Costs Using Existing Prometheus Metrics](https://www.youtube.com/watch?v=qLOmthfEWdw)
 - [Day 82 - Dev Containers in VS Code](https://www.youtube.com/watch?v=LH5qMhpko8k)
 - [Day 81 -  Leveraging Kubernetes to build a better Cloud Native Development Experience](https://www.youtube.com/watch?v=p6AgYNL9awM)
 - [Day 80 - Unlocking K8s Troubleshooting Best Practices with Botkube](https://www.youtube.com/watch?v=wcMOn-FEsW0)
 - [Day 79 - DevEdOps](https://www.youtube.com/watch?v=5-Pa2odaGeg)
-- [Day 78 - Scaling Terraform Deployments with GitHub Actions: Essential Configurations](https://www.youtube.com/watch?v=pU8vSCvZIHg)
 <!-- VIDEO:END -->
 
 
