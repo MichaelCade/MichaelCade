@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 86 - Tools To Make Your Terminal DevOps and Kubernetes Friendly](https://www.youtube.com/watch?v=QL7h9J5Eqd8)
 - [Day 85 - Reuse, Don&#39;t Repeat - Creating an Infrastructure as Code Module Library](https://www.youtube.com/watch?v=eQLpncE7eLs)
 - [Day 84 - Hacking Kubernetes For Beginners](https://www.youtube.com/watch?v=ZUHUEZKl0vc)
 - [Day 83 - Saving Cloud Costs Using Existing Prometheus Metrics](https://www.youtube.com/watch?v=qLOmthfEWdw)
 - [Day 82 - Dev Containers in VS Code](https://www.youtube.com/watch?v=LH5qMhpko8k)
-- [Day 81 -  Leveraging Kubernetes to build a better Cloud Native Development Experience](https://www.youtube.com/watch?v=p6AgYNL9awM)
 <!-- VIDEO:END -->
 
 
