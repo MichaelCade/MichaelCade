@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Day 90 - Fighting fire with fire: Why we cannot always prevent technical issues with more tech](https://www.youtube.com/watch?v=PJsBQGKkn60)
 - [Day 87 - Hands-on Performance Testing with k6](https://www.youtube.com/watch?v=Jg4GRzRHX9M)
 - [Day 86 - Tools To Make Your Terminal DevOps and Kubernetes Friendly](https://www.youtube.com/watch?v=QL7h9J5Eqd8)
 - [Day 89 - Seeding Infrastructures: Merging Terraform with Generative AI for Effortless DevOps Gardens](https://www.youtube.com/watch?v=EpkYCmKtL6w)
 - [Day 88 - What Developers Want from Internal Developer Portals](https://www.youtube.com/watch?v=Qo9D8U8ZmS0)
-- [Day 85 - Reuse, Don&#39;t Repeat - Creating an Infrastructure as Code Module Library](https://www.youtube.com/watch?v=eQLpncE7eLs)
 <!-- VIDEO:END -->
 
 
