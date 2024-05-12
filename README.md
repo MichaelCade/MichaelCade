@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [HomeLabbing - Talos Linux + Rook Ceph + Veeam Kasten for Kubernetes](https://www.youtube.com/watch?v=iE5DNLd4yV4)
 - [Day91 - Team Topologies and Platform Engineering](https://www.youtube.com/watch?v=XgXeuRBzGLc)
 - [Day 90 - Fighting fire with fire: Why we cannot always prevent technical issues with more tech](https://www.youtube.com/watch?v=PJsBQGKkn60)
 - [Day 89 - Seeding Infrastructures: Merging Terraform with Generative AI for Effortless DevOps Gardens](https://www.youtube.com/watch?v=EpkYCmKtL6w)
 - [Day 88 - What Developers Want from Internal Developer Portals](https://www.youtube.com/watch?v=Qo9D8U8ZmS0)
-- [Day 87 - Hands-on Performance Testing with k6](https://www.youtube.com/watch?v=Jg4GRzRHX9M)
 <!-- VIDEO:END -->
 
 
