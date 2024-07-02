@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Bringing AI to #90DaysOfDevOps 2024 Community Edition](https://www.youtube.com/watch?v=1zU5Xns7c34)
+- [Veeam Data Platform Upgrade from 12 to 12.1](https://www.youtube.com/watch?v=JxTIGHqY5_E)
 - [Learning Kubernetes, Pods &amp; Deployments with Doom](https://www.youtube.com/watch?v=j9DOWkw9-pc)
 - [Azure Spring 2024 - Data On Microsoft Azure](https://www.youtube.com/watch?v=3srVdN9fF0Q)
 - [HomeLabbing - Talos Linux + Rook Ceph + Veeam Kasten for Kubernetes](https://www.youtube.com/watch?v=iE5DNLd4yV4)
-- [Day91 - Team Topologies and Platform Engineering](https://www.youtube.com/watch?v=XgXeuRBzGLc)
-- [Day 90 - Fighting fire with fire: Why we cannot always prevent technical issues with more tech](https://www.youtube.com/watch?v=PJsBQGKkn60)
 <!-- VIDEO:END -->
 
 
