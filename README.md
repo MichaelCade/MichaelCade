@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [The VMware Cost Conundrum](https://www.youtube.com/watch?v=7VesJOofBP8)
 - [Pac-Man High Scores - Immutable Backup &amp; Recovery &lpar;No Voice Over&rpar; Demo](https://www.youtube.com/watch?v=TIJE4uqk0Zw)
 - [Bringing AI to #90DaysOfDevOps 2024 Community Edition](https://www.youtube.com/watch?v=1zU5Xns7c34)
 - [Veeam Data Platform Upgrade from 12 to 12.1](https://www.youtube.com/watch?v=JxTIGHqY5_E)
 - [Learning Kubernetes, Pods &amp; Deployments with Doom](https://www.youtube.com/watch?v=j9DOWkw9-pc)
-- [Azure Spring 2024 - Data On Microsoft Azure](https://www.youtube.com/watch?v=3srVdN9fF0Q)
 <!-- VIDEO:END -->
 
 
