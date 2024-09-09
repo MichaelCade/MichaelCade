@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Virtualisation was just the start](https://www.youtube.com/watch?v=dnDTbDaA960)
 - [90DaysOfDevOps - Test Stream](https://www.youtube.com/watch?v=LGECvNhRtcg)
 - [Protect your Postgres EDB database with Kasten](https://www.youtube.com/watch?v=pTmeUKD8sMo)
 - [The VMware Cost Conundrum](https://www.youtube.com/watch?v=7VesJOofBP8)
 - [Pac-Man High Scores - Immutable Backup &amp; Recovery &lpar;No Voice Over&rpar; Demo](https://www.youtube.com/watch?v=TIJE4uqk0Zw)
-- [Bringing AI to #90DaysOfDevOps 2024 Community Edition](https://www.youtube.com/watch?v=1zU5Xns7c34)
 <!-- VIDEO:END -->
 
 
