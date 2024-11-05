@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Kollect - The Cloud Inventory Project](https://www.youtube.com/watch?v=dfuQFjl1Tnw)
 - [MongoDB + Pac-Man with Veeam Backup &amp; Replication protection](https://www.youtube.com/watch?v=xL3E9eQrpoU)
 - [Virtualisation was just the start](https://www.youtube.com/watch?v=dnDTbDaA960)
 - [90DaysOfDevOps - Test Stream](https://www.youtube.com/watch?v=LGECvNhRtcg)
 - [Protect your Postgres EDB database with Kasten](https://www.youtube.com/watch?v=pTmeUKD8sMo)
-- [The VMware Cost Conundrum](https://www.youtube.com/watch?v=7VesJOofBP8)
 <!-- VIDEO:END -->
 
 
