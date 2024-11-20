@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading my Talos Kubernetes Cluster](https://vzilla.co.uk/vzilla-blog/upgrading-my-talos-kubernetes-cluster)
 - [Infrastructure with Terraform and Ansible: A VeeamLab Update](https://vzilla.co.uk/vzilla-blog/infrastructure-with-terraform-and-ansible-a-veeamlab-update)
 - [If the world of IT was like Harry Potter](https://vzilla.co.uk/vzilla-blog/if-the-world-of-it-was-like-harry-potter)
 - [Kubernetes in the HomeLab 2024 Update](https://vzilla.co.uk/vzilla-blog/kubernetes-in-the-homelab-2024-update)
 - [Minikube is broken – Issue #17767](https://vzilla.co.uk/vzilla-blog/minikube-is-broken-issue-17767)
-- [VMware vCenter 8.0 – Power Outage causes no boot!](https://vzilla.co.uk/vzilla-blog/vmware-vcenter-8-0-power-outage-causes-no-boot)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
