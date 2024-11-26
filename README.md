@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending the Root Partition on RHEL VMs Provisioned via Terraform](https://vzilla.co.uk/vzilla-blog/extending-the-root-partition-on-rhel-vms-provisioned-via-terraform)
 - [My vZilla Homelab – 2024 Edition](https://vzilla.co.uk/vzilla-blog/my-vzilla-homelab-2024-edition)
 - [Upgrading my Talos Kubernetes Cluster](https://vzilla.co.uk/vzilla-blog/upgrading-my-talos-kubernetes-cluster)
 - [Infrastructure with Terraform and Ansible: A VeeamLab Update](https://vzilla.co.uk/vzilla-blog/infrastructure-with-terraform-and-ansible-a-veeamlab-update)
 - [If the world of IT was like Harry Potter](https://vzilla.co.uk/vzilla-blog/if-the-world-of-it-was-like-harry-potter)
-- [Kubernetes in the HomeLab 2024 Update](https://vzilla.co.uk/vzilla-blog/kubernetes-in-the-homelab-2024-update)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
