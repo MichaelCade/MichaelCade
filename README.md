@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VMs on Kubernetes protected unofficially by Veeam*](https://vzilla.co.uk/vzilla-blog/vms-on-kubernetes-protected-unofficially-by-veeam)
 - [Building a Resilient Kubernetes Cluster with Talos, Ceph, and Veeam Kasten](https://vzilla.co.uk/vzilla-blog/building-a-resilient-kubernetes-cluster-with-talos-ceph-and-veeam-kasten)
 - [Extending the Root Partition on RHEL VMs Provisioned via Terraform](https://vzilla.co.uk/vzilla-blog/extending-the-root-partition-on-rhel-vms-provisioned-via-terraform)
 - [My vZilla Homelab – 2024 Edition](https://vzilla.co.uk/vzilla-blog/my-vzilla-homelab-2024-edition)
 - [Upgrading my Talos Kubernetes Cluster](https://vzilla.co.uk/vzilla-blog/upgrading-my-talos-kubernetes-cluster)
-- [Infrastructure with Terraform and Ansible: A VeeamLab Update](https://vzilla.co.uk/vzilla-blog/infrastructure-with-terraform-and-ansible-a-veeamlab-update)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
