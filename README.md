@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [2025 HomeLab Ramblings - Kubernetes, VMware, Hyper-V, Proxmox, RaspberryPi and More](https://www.youtube.com/watch?v=RaApDSsF_Rk)
 - [Kollect - Veeam Inventory](https://www.youtube.com/watch?v=yQ1vlndXTQY)
 - [YouTube Watch Later Scrape for categorising and creating new playlists.](https://www.youtube.com/watch?v=csLvKRO5z3E)
 - [Kollect - The Cloud Inventory Project](https://www.youtube.com/watch?v=dfuQFjl1Tnw)
 - [MongoDB + Pac-Man with Veeam Backup &amp; Replication protection](https://www.youtube.com/watch?v=xL3E9eQrpoU)
-- [Virtualisation was just the start](https://www.youtube.com/watch?v=dnDTbDaA960)
 <!-- VIDEO:END -->
 
 
