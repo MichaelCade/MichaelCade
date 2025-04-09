@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualising Veeam: Kubernetes Monitoring with Grafana and ArgoCD](https://vzilla.co.uk/vzilla-blog/visualising-veeam-kubernetes-monitoring-with-grafana-and-argocd)
 - [HomeLab: Trials, Tribulations and Packer](https://vzilla.co.uk/vzilla-blog/homelab-trials-tribulations-and-packer)
 - [Veeam Kasten: ARM Support &lpar;Raspberry PI – How to&rpar;](https://vzilla.co.uk/vzilla-blog/veeam-kasten-arm-support-raspberry-pi-how-to)
 - [Veeam Data Platform: 12.3 Release Summary &lpar;a dot release&rpar;](https://vzilla.co.uk/vzilla-blog/veeam-data-platform-12-3-release-summary-a-dot-release)
 - [VMs on Kubernetes protected unofficially by Veeam*](https://vzilla.co.uk/vzilla-blog/vms-on-kubernetes-protected-unofficially-by-veeam)
-- [Building a Resilient Kubernetes Cluster with Talos, Ceph, and Veeam Kasten](https://vzilla.co.uk/vzilla-blog/building-a-resilient-kubernetes-cluster-with-talos-ceph-and-veeam-kasten)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
