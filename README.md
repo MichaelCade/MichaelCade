@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Home Lab - Part 3 - ArgoCD and Grafana Dashboards Update](https://www.youtube.com/watch?v=qkD3XFjEMys)
 - [Home Lab 2025, Initial walk and talk through and plans](https://www.youtube.com/watch?v=g4wvvEVR6zk)
 - [2025 HomeLab Ramblings - Kubernetes, VMware, Hyper-V, Proxmox, RaspberryPi and More](https://www.youtube.com/watch?v=RaApDSsF_Rk)
 - [Kollect - Veeam Inventory](https://www.youtube.com/watch?v=yQ1vlndXTQY)
 - [YouTube Watch Later Scrape for categorising and creating new playlists.](https://www.youtube.com/watch?v=csLvKRO5z3E)
-- [Kollect - The Cloud Inventory Project](https://www.youtube.com/watch?v=dfuQFjl1Tnw)
 <!-- VIDEO:END -->
 
 
