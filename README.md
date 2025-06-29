@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hypervisor Hunger Games – Service Provider Edition](https://vzilla.co.uk/vzilla-blog/the-hypervisor-hunger-games-service-provider-edition)
 - [Taking a look at KubeBuddy for Kubernetes](https://vzilla.co.uk/vzilla-blog/taking-a-look-at-kubebuddy-for-kubernetes)
 - [My Thoughts on Retrieval-Augmented Generation &lpar;RAG&rpar; and the Power of Vector Databases](https://vzilla.co.uk/vzilla-blog/my-thoughts-on-retrieval-augmented-generation-rag-and-the-power-of-vector-databases)
 - [My initial thoughts on using AI to manage Kubernetes Clusters – kubectl-ai](https://vzilla.co.uk/vzilla-blog/my-initial-thoughts-on-using-ai-to-manage-kubernetes-clusters-kubectl-ai)
 - [Visualising Veeam: Kubernetes Monitoring with Grafana and ArgoCD](https://vzilla.co.uk/vzilla-blog/visualising-veeam-kubernetes-monitoring-with-grafana-and-argocd)
-- [HomeLab: Trials, Tribulations and Packer](https://vzilla.co.uk/vzilla-blog/homelab-trials-tribulations-and-packer)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
