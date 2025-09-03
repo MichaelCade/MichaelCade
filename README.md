@@ -19,11 +19,11 @@
 
 # Videos
 <!-- VIDEO:START -->
+- [Inside Veeam Data Platform V13](https://www.youtube.com/watch?v=N2OJUa5J0EI)
 - [VMs on Kubernetes... What is that all about?](https://www.youtube.com/watch?v=_IdTa-8tClU)
 - [Home Labs, Why, Where and How?](https://www.youtube.com/watch?v=Kcj9mNSc6-U)
 - [Cloud &amp; DevOps, The Learning Curve](https://www.youtube.com/watch?v=Qr99vxTCvGo)
 - [Cloud &amp; Kubernetes Inventory Project - Kollect](https://www.youtube.com/watch?v=G-VlJASLd84)
-- [Home Lab - Part 3 - ArgoCD and Grafana Dashboards Update](https://www.youtube.com/watch?v=qkD3XFjEMys)
 <!-- VIDEO:END -->
 
 
