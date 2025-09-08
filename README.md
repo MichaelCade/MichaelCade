@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Veeam Software Appliance – The Linux Experience](https://vzilla.co.uk/vzilla-blog/the-veeam-software-appliance-the-linux-experience)
 - [Fixing a bounced vCenter server](https://vzilla.co.uk/vzilla-blog/fixing-a-bounced-vcenter-server)
 - [The Hypervisor Hunger Games – Service Provider Edition](https://vzilla.co.uk/vzilla-blog/the-hypervisor-hunger-games-service-provider-edition)
 - [Taking a look at KubeBuddy for Kubernetes](https://vzilla.co.uk/vzilla-blog/taking-a-look-at-kubebuddy-for-kubernetes)
 - [My Thoughts on Retrieval-Augmented Generation &lpar;RAG&rpar; and the Power of Vector Databases](https://vzilla.co.uk/vzilla-blog/my-thoughts-on-retrieval-augmented-generation-rag-and-the-power-of-vector-databases)
-- [My initial thoughts on using AI to manage Kubernetes Clusters – kubectl-ai](https://vzilla.co.uk/vzilla-blog/my-initial-thoughts-on-using-ai-to-manage-kubernetes-clusters-kubectl-ai)
 <!-- BLOG-POST-LIST:END -->
 
 # Videos
